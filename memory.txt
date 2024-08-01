@@ -1,0 +1,29 @@
+# Memory Configuration:
+# Voltages:
+VDDIO: 1.27
+VDD: 1.27
+VDDQ: 1.27
+VSOC: 1.2
+
+# Timings:
+tCL 30
+tRCDRD 36
+tRP 36
+tRAS 32
+tRC 68
+tWR 48
+tREFI 25000
+tRFC1 700
+tRFC2 600
+tRFCSb 500
+tRTP 12
+tRRD_L 12
+tRRD_S 8
+tFAW 32
+tWTR_L 16
+tWTR_S 4
+
+TrdrdScl 4
+TwrwrScl 1
+Twrrd 2
+Trdwr 1
