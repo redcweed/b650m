@@ -5,6 +5,7 @@ Personal notes and configuration for Aspen-Black PC build
 
 Specs:
 Motherboard:   ASRock B650M-HDV/M.2 mATX (slim)
+
 CPU:           AMD Ryzen 7900x3d
 Memory:        TeamGroup T-CREATE EXPERT Overclocking 48GB (2x24GB) 6400Mhz CL32 (tuned to CL30) (Hynix M-DIE)
 GPU:           XFX Speedster SWFT 319 RX6900XT 16GB GDDR6
